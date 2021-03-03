@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/binnoo/Fabrikam/_apis/build/status/vikasnz.pipelines-java?branchName=master)](https://dev.azure.com/binnoo/Fabrikam/_build/latest?definitionId=49&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
